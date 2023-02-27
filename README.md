@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Tutorial
+
+https://www.codebreakthrough.com/view/courses/free-react-course/1469975-default-section/4621594-6-intro-to-tailwind-css-for-react-react-tutorial-6-mov
+
 ## Available Scripts
 
 In the project directory, you can run:
