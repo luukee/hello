@@ -1,13 +1,17 @@
 import './App.css';
+import Employee from './components/Employee';
 
 function App() {
+  const showEmployees = true
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Hello
-        </p>
-      </header>
+        {showEmployees ? (
+            <>
+              <Employee />
+            </>
+          ) : (
+            <p>You cannot seee the employees</p>
+        )}
     </div>
   );
 }
